@@ -7,6 +7,9 @@ public void collegeName() {
 public void collegecode() {
 	System.out.println("code is 600021");
 }
+public void collegeadd() {
+	System.out.println("college add is chennai ");
+}
 public void collegeRank() {
 	System.out.println("college Rank is 50");
 }
