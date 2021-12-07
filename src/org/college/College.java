@@ -10,6 +10,13 @@ public void collegecode() {
 public void collegestreet() {
 	System.out.println("college street name jpr");
 }
+//<<<<<<< HEAD
+public void collegeadd() {
+	System.out.println("college add is chennai ");
+}
+//=======
+//>>>>>>> 8da8eec84c8e5f702bff38c6bd3eef062d9f70a9
+
 public void collegeRank() {
 	System.out.println("college Rank is 50");
 }
